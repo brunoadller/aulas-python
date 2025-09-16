@@ -1,0 +1,10 @@
+#15 Operadores de asociação
+#OS OPERADORES DE ASSOCIAÇÃO SÃO USADOS PARA TESTAR SE UMA SEQUÊNCIA É APRESENTADA EM UM OBJETO
+#1. in(RETORNA TRUE SE UMA SEQUÊNCIA COM O VALOR ESPECIFICADO ESTIVER PRESENTE NO OBJETO)
+#2. IN NOT (RETORNA TRUE SE UMA SEQUÊNCIA COM O VALOR ESPECIFICADO NÃO ESTIVER PRESENTE NO OBJETO)
+
+Lista_acoes = ['Magalu', 'via', 'carrefour']
+
+print('via' in Lista_acoes)
+print('E2' in Lista_acoes)
+print('zz'not in Lista_acoes)
